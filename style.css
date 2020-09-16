@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Acme&display=swap");
+
+.RRR {
+  position: absolute;
+  left: 325px;
+}
+
+h2 {
+  font-family: "Luckiest Guy", cursive;
+}
+
+p {
+  font-family: "Acme", sans-serif;
+}
+
+.reduceimg {
+  position: absolute;
+  top: 125px;
+}
+
+.reducetxt {
+  position: absolute;
+  top: 150px;
+  left: 250px;
+  text-align: center;
+}
+
+.reuseimg {
+  position: absolute;
+  top: 125px;
+  left: 1100px;
+}
+
+.reusetxt {
+  position: absolute;
+  top: 150px;
+  left: 800px;
+  text-align: center;
+}
+
+.recycleimg {
+  position: absolute;
+  left: 550px;
+  top: 690px;
+}
+
+.recycletxt {
+  position: absolute;
+  left: 350px;
+  text-align: center;
+  top: 540px;
+}
+
+.plastic1img {
+  position: absolute;
+  left: 550px;
+  top: 300px;
+}
